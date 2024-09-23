@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @AnshulNimmala003
 - 👀 I’m interested in Data science
-- 🌱 I’m currently learning  sql
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Linkdin:www.linkedin.com/in/anshul-nimmala
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+
 
 <!---
 AnshulNimmala003/AnshulNimmala003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
