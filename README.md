@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnshulNimmala003
-- 👀 I’m interested in Data science
+- 👀 I’m interested in Data science and Machine learning 
 - 📫 Linkdin:www.linkedin.com/in/anshul-nimmala
 - 😄 Pronouns: he/him
 .
