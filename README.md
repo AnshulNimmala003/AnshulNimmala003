@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data science and Machine learning 
 - 📫 Linkdin:www.linkedin.com/in/anshul-nimmala
 - 😄 Pronouns: he/him
-.
+
 
 <!---
 AnshulNimmala003/AnshulNimmala003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
