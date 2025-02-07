@@ -30,7 +30,7 @@
 ---
 
 ### 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Himesh%20Reddy-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anshul-nimmala/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anshul%20Nimmala-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anshul-nimmala/)
 
 ---
 
@@ -41,4 +41,4 @@
 
 ---
 
-💡 *Always learning, always improving!*
+
