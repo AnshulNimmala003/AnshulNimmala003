@@ -9,7 +9,7 @@
 - 🌱 Currently learning **Deep Learning & MLOps**.
 - 💡 Exploring real-world applications of AI and Data Science.
 - 🔭 Open to collaboration on exciting ML projects.
-- 📫 Reach me at **anushlnimmalaofficial@gmail.com**.
+- 📫 Reach me at **anushlnimmalaofficial@gmail.com**
 
 ---
 
