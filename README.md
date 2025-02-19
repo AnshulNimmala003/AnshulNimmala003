@@ -11,7 +11,7 @@
 - 🔭 Open to collaboration on exciting ML projects.
 - 📫 Reach me at **anushlnimmalaofficial@gmail.com**.
 
----
+--
 
 ###📌 Tech Stack & Tools
 
