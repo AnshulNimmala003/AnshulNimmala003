@@ -38,7 +38,7 @@
 - **Face Recognition Attendance System** – Detects faces in an image and marks attendance.
 - **Exploratory Data Analysis (EDA) Pipeline** – Automated EDA with Pandas, Seaborn, and Matplotlib.
 - **Machine Learning Model Deployment** – Deploying ML models using Flask and FastAPI.
-- **Ai based smart tolling sysytems**
+- **Ai based smart tolling system**
 ---
 
 
