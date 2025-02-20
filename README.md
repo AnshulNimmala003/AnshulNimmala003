@@ -6,7 +6,7 @@
 
 ### 🔍 About Me
 - 🎓 Passionate about Data Science, Machine Learning, and AI.
-- 🌱 Currently learning **Deep Learning & MLOps**.
+- 🌱 Currently learning **Machine Learning **.
 - 💡 Exploring real-world applications of AI and Data Science.
 - 🔭 Open to collaboration on exciting ML projects.
 - 📫 Reach me at **anushlnimmalaofficial@gmail.com**.
